@@ -1,0 +1,1325 @@
+!SESSION 2024-10-17 11:10:18.702 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data /home/shiva/Shiva/Coding
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-17 11:10:21.190
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-17 11:10:22.400
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-10-17 11:10:22.845
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-10-17 11:10:22.845
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-10-17 11:10:23.247
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-10-17 11:10:23.247
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-10-17 11:11:12.218
+!MESSAGE Classpath changed for project: FibbonaciSeries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-17 11:57:28.785
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1729146448785
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-10-17 11:57:28.786
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-17 11:57:28.788
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 7497
+!SESSION 2024-10-18 09:45:12.031 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-18 09:45:29.949
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-18 09:46:24.371
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-10-18 09:46:25.415
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-10-18 09:46:25.415
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-10-18 09:46:26.023
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-10-18 09:46:26.023
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-18 09:46:38.284
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1729224998282
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-10-18 09:46:38.285
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-18 09:46:38.320
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 3889
+!SESSION 2024-10-24 10:55:37.019 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data /home/shiva/Shiva/Coding
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-24 10:55:40.212
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-24 10:55:41.776
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-10-24 10:55:42.279
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-10-24 10:55:42.279
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-10-24 10:55:42.661
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-10-24 10:55:42.661
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-24 10:55:47.165
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1729747547164
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-10-24 10:55:47.165
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-24 10:55:47.178
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 13546
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-10-24 11:14:06.913
+!MESSAGE Classpath changed for project: DailyCodes
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-10-24 11:14:06.914
+!MESSAGE Classpath changed for project: FibbonaciSeries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-10-24 11:14:06.921
+!MESSAGE Failed to refresh Code Minings for editor.
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): FibbonaciSeries does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:562)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2603)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2353)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:2396)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$9(STS4LanguageClientImpl.java:439)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.lambda$0(ReusableClasspathListenerHandler.java:76)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.run(ReusableClasspathListenerHandler.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2024-10-24 11:14:06.922
+!MESSAGE FibbonaciSeries does not exist
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-10-24 11:38:27.388
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SESSION 2024-10-26 09:37:42.262 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-26 09:37:58.102
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-26 09:38:09.832
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-10-26 09:38:10.900
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-10-26 09:38:10.900
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-10-26 09:38:11.683
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-10-26 09:38:11.683
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-26 09:38:23.713
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1729915703712
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-10-26 09:38:23.714
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-26 09:38:23.766
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 3930
+!SESSION 2024-10-28 10:06:05.497 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-28 10:06:20.416
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-28 10:06:27.792
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-10-28 10:06:28.771
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-10-28 10:06:28.771
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-10-28 10:06:29.443
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-10-28 10:06:29.443
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-28 10:06:41.076
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1730090201074
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-10-28 10:06:41.077
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-10-28 10:06:41.104
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 4344
+!SESSION 2024-11-04 11:48:31.446 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data /home/shiva/Shiva/Coding
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-04 11:48:33.964
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-04 11:48:35.572
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-04 11:48:36.086
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-04 11:48:36.086
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-04 11:48:36.489
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-04 11:48:36.489
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-04 11:48:41.226
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1730701121225
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-04 11:48:41.226
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-04 11:48:41.237
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 23570
+!SESSION 2024-11-05 09:42:59.118 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-05 09:43:14.155
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-05 10:11:08.385
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-05 10:11:09.591
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-05 10:11:09.592
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-05 10:11:10.291
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-05 10:11:10.291
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-05 10:11:21.824
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1730781681822
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-05 10:11:21.825
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-05 10:11:21.865
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 3774
+
+!ENTRY org.eclipse.debug.core 4 125 2024-11-05 18:40:30.849
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:188)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:343)
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:405)
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:95)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.internalRead(OutputStreamMonitor.java:249)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:225)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+!SESSION 2024-11-06 09:46:20.233 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-06 09:46:38.784
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-06 09:46:45.858
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-06 09:46:47.274
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-06 09:46:47.274
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-06 09:46:48.201
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-06 09:46:48.201
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-06 09:47:00.208
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1730866620208
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-06 09:47:00.209
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-06 09:47:00.263
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 4751
+
+!ENTRY org.eclipse.debug.core 4 125 2024-11-06 18:28:12.246
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: Stream closed
+	at java.base/java.io.BufferedInputStream.getBufIfOpen(BufferedInputStream.java:188)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:343)
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:405)
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:95)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.internalRead(OutputStreamMonitor.java:249)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:225)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+!SESSION 2024-11-07 10:29:28.079 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-07 10:29:43.091
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-07 10:30:15.253
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-07 10:30:16.210
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-07 10:30:16.211
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-07 10:30:16.845
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-07 10:30:16.845
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-07 10:30:28.337
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1730955628337
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-07 10:30:28.338
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-07 10:30:28.385
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 4612
+!SESSION 2024-11-08 10:12:22.436 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-08 10:12:36.852
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-08 10:12:54.866
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-08 10:12:56.427
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-08 10:12:56.427
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-08 10:12:57.181
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-08 10:12:57.181
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-08 10:13:10.211
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1731040990210
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-08 10:13:10.212
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-08 10:13:10.218
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 4542
+!SESSION 2024-11-09 10:34:31.032 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-09 10:34:46.903
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-09 10:34:53.478
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-09 10:34:54.717
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-09 10:34:54.717
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-09 10:34:55.434
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-09 10:34:55.434
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-09 10:35:07.206
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1731128707205
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 10:35:07.206
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-09 10:35:07.245
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 17917
+!SESSION 2024-11-13 10:57:44.476 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-13 10:57:58.394
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-13 10:59:54.784
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-13 10:59:55.908
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-13 10:59:55.908
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-13 10:59:56.667
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-13 10:59:56.667
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-13 11:00:09.145
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1731475809143
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-13 11:00:09.146
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-13 11:00:09.204
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 6678
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-11-13 12:26:48.374
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SESSION 2024-11-14 09:53:26.815 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-14 09:53:41.978
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-14 09:53:52.118
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-14 09:53:53.265
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-14 09:53:53.265
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-14 09:53:53.892
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-14 09:53:53.892
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-14 09:54:06.007
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1731558246005
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-14 09:54:06.008
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-14 09:54:06.049
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 4136
+!SESSION 2024-11-15 10:42:04.328 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-15 10:42:19.109
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-15 10:43:45.150
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-15 10:43:46.222
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-15 10:43:46.222
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-15 10:43:46.921
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-15 10:43:46.921
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-15 10:43:59.267
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1731647639266
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-15 10:43:59.268
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-15 10:43:59.344
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 4487
+!SESSION 2024-11-22 15:53:48.768 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-22 15:54:04.226
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-22 15:54:12.955
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-22 15:54:14.301
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-22 15:54:14.301
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-22 15:54:15.174
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-22 15:54:15.174
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-22 15:54:28.144
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1732271068143
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-22 15:54:28.145
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-22 15:54:28.178
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 12134
+!SESSION 2024-11-23 10:55:14.114 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-23 10:55:30.800
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-23 10:56:34.734
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-23 10:56:35.807
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-23 10:56:35.807
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-23 10:56:36.499
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-23 10:56:36.499
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-23 10:56:49.419
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1732339609418
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-23 10:56:49.420
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-23 10:56:49.448
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 14033
+!SESSION 2024-11-25 09:57:00.553 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-25 09:57:29.104
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-25 09:57:50.020
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-25 09:57:51.206
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-25 09:57:51.206
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-25 09:57:52.622
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-25 09:57:52.622
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-25 09:58:05.773
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1732508885772
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-25 09:58:05.773
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-25 09:58:05.806
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 5170
+!SESSION 2024-11-26 10:36:08.085 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-26 10:36:25.763
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-26 10:36:41.308
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-26 10:36:42.474
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-26 10:36:42.474
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-26 10:36:43.321
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-26 10:36:43.321
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-26 10:36:57.419
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1732597617418
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-26 10:36:57.420
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-26 10:36:57.497
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 4595
+!SESSION 2024-11-28 11:36:01.894 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data /home/shiva/Shiva/Coding
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-28 11:36:04.851
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-28 11:36:06.358
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-28 11:36:06.887
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-28 11:36:06.887
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-28 11:36:07.271
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-28 11:36:07.271
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-28 11:36:13.090
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1732773973089
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-28 11:36:13.091
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-28 11:36:13.101
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 5438
+!SESSION 2024-11-29 10:29:50.538 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-29 10:30:04.707
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-29 10:30:12.084
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-29 10:30:13.240
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-29 10:30:13.240
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-29 10:30:13.948
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-29 10:30:13.948
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-29 10:30:27.052
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1732856427051
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-29 10:30:27.053
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-29 10:30:27.098
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 5161
+!SESSION 2024-12-02 11:07:09.946 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-02 11:07:33.812
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-02 11:07:42.537
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-12-02 11:07:43.546
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-02 11:07:43.546
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-12-02 11:07:44.165
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-02 11:07:44.165
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-02 11:07:57.194
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1733117877194
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-02 11:07:57.195
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-02 11:07:57.310
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 8522
+!SESSION 2024-12-04 09:35:54.094 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-04 09:36:15.256
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-04 09:37:11.376
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-12-04 09:37:12.539
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-04 09:37:12.539
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-12-04 09:37:13.330
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-04 09:37:13.330
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-04 09:37:27.604
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1733285247603
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-04 09:37:27.604
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-04 09:37:27.628
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 3930
+!SESSION 2024-12-05 11:13:29.586 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-05 11:13:45.776
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-05 11:13:52.855
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-12-05 11:13:53.911
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-05 11:13:53.911
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-12-05 11:13:54.559
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-05 11:13:54.559
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-05 11:14:06.941
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1733377446940
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-05 11:14:06.942
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-05 11:14:06.977
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 6429
+!SESSION 2024-12-06 09:43:17.695 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-06 09:43:31.866
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-06 09:43:38.294
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-12-06 09:43:39.622
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-06 09:43:39.622
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-12-06 09:43:40.340
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-06 09:43:40.340
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-06 09:43:53.008
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1733458433007
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-06 09:43:53.008
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-06 09:43:53.041
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 3774
+!SESSION 2024-12-14 11:22:29.161 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data /home/shiva/Shiva/Coding
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-14 11:22:31.471
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-12-14 11:22:32.361
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-14 11:22:33.080
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-12-14 11:22:33.609
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-14 11:22:33.609
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-12-14 11:22:34.006
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-14 11:22:34.006
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-14 11:22:39.666
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1734155559666
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-14 11:22:39.667
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-14 11:22:39.679
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 6528
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-12-14 12:34:10.967
+!MESSAGE Unable to compute end of document
+!STACK 0
+org.eclipse.jface.text.BadLocationException: 352
+	at org.eclipse.jface.text.TreeLineTracker.lineByOffset(TreeLineTracker.java:268)
+	at org.eclipse.jface.text.TreeLineTracker.getLineNumberOfOffset(TreeLineTracker.java:1112)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineNumberOfOffset(AbstractLineTracker.java:246)
+	at org.eclipse.jface.text.AbstractDocument.getLineOfOffset(AbstractDocument.java:863)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOfOffset(SynchronizableDocument.java:334)
+	at org.eclipse.lsp4e.LSPEclipseUtils.toPosition(LSPEclipseUtils.java:193)
+	at org.eclipse.lsp4e.operations.inlayhint.InlayHintProvider.provideCodeMinings(InlayHintProvider.java:44)
+	at org.eclipse.lsp4e.operations.inlayhint.InlayHintProvider.provideCodeMinings(InlayHintProvider.java:80)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.lambda$2(CodeMiningManager.java:189)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.getCodeMinings(CodeMiningManager.java:195)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.updateCodeMinings(CodeMiningManager.java:140)
+	at org.eclipse.jface.internal.text.codemining.CodeMiningManager.run(CodeMiningManager.java:129)
+	at org.eclipse.jface.text.source.SourceViewer.updateCodeMinings(SourceViewer.java:1333)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaCodeMiningReconciler.reconciled(JavaCodeMiningReconciler.java:51)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1685)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:228)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:171)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:115)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:78)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+!SESSION 2024-12-17 15:29:00.611 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-17 15:29:16.031
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-17 15:29:23.654
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-12-17 15:29:24.656
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-17 15:29:24.656
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-12-17 15:29:25.324
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-17 15:29:25.324
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-17 15:29:39.029
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1734429579028
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-17 15:29:39.030
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-17 15:29:39.065
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 21853
+!SESSION 2024-12-18 15:21:56.403 -----------------------------------------------
+eclipse.buildId=4.23.0.202406070037
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data /home/shiva/Shiva/Coding
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-18 15:21:59.166
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-18 15:22:00.525
+!MESSAGE Logback config file: /home/shiva/Shiva/Coding/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-12-18 15:22:00.988
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-18 15:22:00.988
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-12-18 15:22:01.351
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-18 15:22:01.351
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-18 15:22:06.706
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/shiva/Downloads/spring-tool-suite-4-4.23.0.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.0.202406062354/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/shiva/Shiva/Coding/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1734515526705
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-18 15:22:06.706
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-18 15:22:06.708
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 39050

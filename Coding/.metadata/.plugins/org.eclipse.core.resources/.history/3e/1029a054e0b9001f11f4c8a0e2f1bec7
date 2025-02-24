@@ -1,0 +1,21 @@
+package pkg3;
+
+public class MethodOverriding {
+	
+	public class Animal{
+		public void sound() {
+			System.out.println("general sound");
+		}
+		
+	}
+	class Dog extends Animal{
+		
+	}
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

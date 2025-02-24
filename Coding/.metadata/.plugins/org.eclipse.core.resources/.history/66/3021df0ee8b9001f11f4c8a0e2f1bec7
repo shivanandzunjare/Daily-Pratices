@@ -1,0 +1,21 @@
+package pkg3;
+
+public class Dog extends Animal{
+	
+
+
+		@Override
+		public void sound() {
+			System.out.println("dog barking");
+		}
+		
+		
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Dog a = (Dog) new Animal();
+		a.sound();
+
+	}
+
+}

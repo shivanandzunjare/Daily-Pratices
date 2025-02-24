@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Scanner"/>
+    <fullyQualifiedTypeName name="java.math.BigInteger"/>
+    <fullyQualifiedTypeName name="whileLoop"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.lang.ScopedValue"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="pkg2.Methods"/>
+    <fullyQualifiedTypeName name="pkg2.DiffStaticInstance"/>
+    <fullyQualifiedTypeName name="pkg2.Vishal"/>
+    <fullyQualifiedTypeName name="pkg2.Sudam"/>
+    <fullyQualifiedTypeName name="pkg2.Computer"/>
+    <fullyQualifiedTypeName name="pkg2.Laptop"/>
+    <fullyQualifiedTypeName name="pkg2.ConstrOverloading"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="pkg3.InstanceOf"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="pkg3.MethodOverriding.Animal"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="pkg3.MethodOverloading"/>
+    <fullyQualifiedTypeName name="pkg3.Animal"/>
+</qualifiedTypeNameHistroy>
